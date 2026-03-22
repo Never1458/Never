@@ -265,7 +265,7 @@
     <!-- 第一行 -->
     <tr>
     <td valign="top">
-        <a target="_blank" href="https://github.com/Never1458/Never/tree/main/Python/1.png">
+        <a target="_blank" href="https://github.com/Never1458/Never/tree/main/Python/001/1.png">
             <p align="center">001</p>
         </a>
     </td>
